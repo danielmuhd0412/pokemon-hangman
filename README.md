@@ -1,8 +1,10 @@
 # pokemon-hangman
 
-pokemon-hangman lets you play hangman with first 151 Pokemon in the console.
+pokemon-hangman lets you play hangman using the names of Pokemon in the console.
 
 pokemon-hangman is written in Python.
+
+Currently contains Pokemon until Gen 2. (252 total)
 
 ## Requirements
 
