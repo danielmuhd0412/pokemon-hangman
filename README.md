@@ -39,12 +39,12 @@ C:\Users\User> git clone ...
 C:\Users\User> cd pokemon-hangman
 ```
 
-3. Launch the script in your console.
+Launch the script in your console.
 ```bash
 C:\Users\User> python play.py
 ```
 
-4. Play!
+Play!
 
 ## How to Play
 
