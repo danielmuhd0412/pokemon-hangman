@@ -16,14 +16,14 @@ Install Python from the [official website](https://www.python.org/downloads/).
 
 Clone and cd to the repo.
 
-```bash
+```
 $ git clone ...
 $ cd path-to-pokemon-hangman
 ```
 
 Launch the script in your console.
 
-```bash
+```
 $ python play.py
 ```
 
@@ -31,18 +31,16 @@ Play!
 
 ### Detailed Steps for Beginners
 
-Open the Command Prompt
-
-Key in <kbd>Windows</kbd> + <kbd>R</kbd> and type in `cmd`
+Open the Command Prompt with `Windows` + `R` and type in `cmd`
 
 Clone and navigate to the repo.
-```bash
+```
 C:\Users\User> git clone ...
 C:\Users\User> cd pokemon-hangman
 ```
 
 Launch the script in your console.
-```bash
+```
 C:\Users\User> python play.py
 ```
 
